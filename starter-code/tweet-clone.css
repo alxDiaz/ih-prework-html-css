@@ -1,0 +1,120 @@
+body {
+  background: rgb(244, 248, 249);
+  font-family: Helvetica;
+}
+
+#tweet {
+  background-color: rgb(255,255,255);
+  border: 1px solid rgb(225, 232, 237);
+  border-radius: 5px;
+  float: left;
+  padding: 25px 25px 5px 25px;
+  width: 600px;
+}
+
+#datosUsuario{
+
+}
+
+#imagenUsuario {
+  float: left;
+}
+
+#datos{
+  padding-left: 20px;
+  float: left;
+  vertical-align: middle;
+}
+
+#nombreUsuario {
+  color: rgb(0,0,0);
+  font-weight: bold;
+}
+
+#cuentaUsuario {
+  color: rgb(104, 109, 129);
+  clear: both;
+}
+
+#botonSeguir {
+  padding-right: 20px;
+  float: right;
+  background-color: rgb(255, 255, 255);
+  color : rgb(85, 172, 238);
+  border: 1px solid rgb(85, 172, 238);
+  border-radius: 10px;
+}
+
+#caminandoLogo{
+  float: left;
+}
+
+#nombreP{
+  float: left;
+  padding-left: 5px;
+  vertical-align: middle;
+
+}
+
+#imagenCuentaCom{
+  float: left;
+  padding-left: 5px;
+}
+
+#datosBoton {
+  font-weight: bold;
+}
+
+#imagenTwitter{
+  padding: 10px;
+  float: left;
+}
+#textoBoton{
+  padding-left: 10px;
+  float: left;
+}
+
+#mensaje{
+  clear: both;
+  padding: 2px 0px 0px 0px;
+}
+
+#timeStamp{
+  color: rgb(101, 116, 127);
+}
+
+#imagenReply{
+  float: left;
+}
+
+#imagenRT{
+  padding-left: 20px;
+  float: left;
+}
+#imagenCorazon{
+  padding-left: 20px;
+  float: left;
+}
+
+#cantidadRT{
+  padding-left: 5px;
+  float: left;
+  color: rgb(105, 120, 130);
+}
+
+#imagenFav{
+  padding-left: 20px;
+  float: left;
+}
+
+#cantidadFav{
+  padding-left: 5px;
+  color: rgb(105, 120, 130);
+  float: left;
+
+}
+
+#estadisticas{
+  font-weight: bold;
+
+}
